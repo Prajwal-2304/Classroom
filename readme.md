@@ -83,8 +83,3 @@ create table materials (
         sec varchar
 );
 
-8:Pending jobs(please update as modified)
-
-1-Addition of routes to the cie page (if needed)
-2-CSS styling for all the pages as needed 
-3-Route handling and creation of folders for students
